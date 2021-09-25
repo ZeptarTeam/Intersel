@@ -13,9 +13,6 @@ Our stub is *encrypted*, *obfuscatated* and, **most importantly** *undetected*.
 ![alt text](https://media.discordapp.net/attachments/888569081043755080/891435863530160148/unknown.png)
 ![alt text](https://media.discordapp.net/attachments/888569081043755080/891438084267319296/unknown.png)
 
-*(Intersel's Javaescript Injection was adapated from Stanley's very own PirateStealer with his approval)*
-*( https://github.com/Stanley-GF/PirateStealer/ )*
-
 🚨 DISCLAIMER 🚨
 
 ⚠️ WARNING: (Intersel) was solely developed for an educational purpose, By using this software you agree to bear full responsibility of any action or damage caused by this software.
@@ -27,4 +24,3 @@ You bear the full responsibility of your actions and acknowledge that this softw
 This software's main purpose is NOT to be used maliciously, or on any system that you do not own, or have the right to use.
 
 By using this software, you automatically agree to the above.
-
