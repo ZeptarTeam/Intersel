@@ -3,7 +3,7 @@ A stub-based discord injector.
 
 **What is Intersel?**
 
-*Intersel is a  Discord-based JavaScript injection tool.*
+*Intersel is a  stub-based JavaScript injection tool for Discord*
 
 **What do we have to offer?**
 
