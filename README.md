@@ -5,7 +5,7 @@ A stub-based discord injector.
 
 *Intersel is a  stub-based JavaScript injection tool for Discord*
 
-(our official Discord server: https://discord.gg/vcPAtbH95y)
+(our official Discord server: https://discord.gg/UmxVnbtrn3)
 
 **What do we have to offer?**
 
