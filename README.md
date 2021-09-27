@@ -15,6 +15,66 @@ Our stub is *encrypted*, *obfuscatated* and, **most importantly** *undetected*.
 ![alt text](https://media.discordapp.net/attachments/888569081043755080/891435863530160148/unknown.png)
 ![alt text](https://media.discordapp.net/attachments/888569081043755080/891438084267319296/unknown.png)
 
+# Intersel's Stub
+
+## Discord JavaScript Injection
+* Discord Login
+* Discord Change Password
+* Discord Change Email
+* Discord Credit Card
+* Rmemove QR Code
+* IP
+
+# Discord Login
+* Username
+* Email
+* Password
+* Token
+* Nitro
+* Badges
+* ID
+
+# Discord Change Password
+* Username
+* Email
+* Old Password
+* New Password
+* Token
+* Nitro
+* Badges
+* ID
+
+# Discord Change Email
+* Username
+* New Email
+* Password
+* Token
+* Nitro
+* Badges
+* ID
+
+# Discord Credit Card
+* Full Name
+* Credit Card Number
+* Credit Card Expiration (month & year)
+* CVC
+* Address
+* Country
+* State
+* City
+* ZIP Code
+* Token
+* Nitro
+* Badges
+* ID
+***I discourage any use of this feature.***
+
+# Remove QR Code
+* Remove Login by QR Code feature
+* 
+# IP
+* IP Address
+
 🚨 DISCLAIMER 🚨
 
 ⚠️ WARNING: (Intersel) was solely developed for an educational purpose, By using this software you agree to bear full responsibility of any action or damage caused by this software.
