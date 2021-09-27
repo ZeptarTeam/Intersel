@@ -22,7 +22,7 @@ Our stub is *encrypted*, *obfuscatated* and, **most importantly** *undetected*.
 * Discord Change Password
 * Discord Change Email
 * Discord Credit Card
-* Rmemove QR Code
+* Remove QR Code
 * IP
 
 ## Discord Login
