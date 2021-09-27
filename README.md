@@ -73,7 +73,7 @@ Our stub is *encrypted*, *obfuscatated* and, **most importantly** *undetected*.
 # Remove QR Code
 
 * Remove Login by QR Code feature
-*  
+
 # IP
 * IP Address
 
