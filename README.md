@@ -25,7 +25,7 @@ Our stub is *encrypted*, *obfuscatated* and, **most importantly** *undetected*.
 * Rmemove QR Code
 * IP
 
-# Discord Login
+## Discord Login
 * Username
 * Email
 * Password
@@ -34,7 +34,7 @@ Our stub is *encrypted*, *obfuscatated* and, **most importantly** *undetected*.
 * Badges
 * ID
 
-# Discord Change Password
+## Discord Change Password
 * Username
 * Email
 * Old Password
@@ -44,7 +44,7 @@ Our stub is *encrypted*, *obfuscatated* and, **most importantly** *undetected*.
 * Badges
 * ID
 
-# Discord Change Email
+## Discord Change Email
 * Username
 * New Email
 * Password
@@ -53,7 +53,7 @@ Our stub is *encrypted*, *obfuscatated* and, **most importantly** *undetected*.
 * Badges
 * ID
 
-# Discord Credit Card
+## Discord Credit Card
 * Full Name
 * Credit Card Number
 * Credit Card Expiration (month & year)
@@ -70,14 +70,14 @@ Our stub is *encrypted*, *obfuscatated* and, **most importantly** *undetected*.
 
 ***I discourage any use of this feature.***
 
-# Remove QR Code
+## Remove QR Code
 
 * Remove Login by QR Code feature
 
-# IP
+## IP
 * IP Address
 
-## DISCLAIMER
+# DISCLAIMER
 
 🚨 DISCLAIMER 🚨
 
