@@ -77,6 +77,8 @@ Our stub is *encrypted*, *obfuscatated* and, **most importantly** *undetected*.
 # IP
 * IP Address
 
+## DISCLAIMER
+
 🚨 DISCLAIMER 🚨
 
 ⚠️ WARNING: (Intersel) was solely developed for an educational purpose, By using this software you agree to bear full responsibility of any action or damage caused by this software.
