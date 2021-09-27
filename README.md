@@ -67,11 +67,13 @@ Our stub is *encrypted*, *obfuscatated* and, **most importantly** *undetected*.
 * Nitro
 * Badges
 * ID
+
 ***I discourage any use of this feature.***
 
 # Remove QR Code
+
 * Remove Login by QR Code feature
-* 
+*  
 # IP
 * IP Address
 
