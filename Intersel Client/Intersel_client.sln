@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intersel", "Intersel.csproj", "{67FFB1FE-535C-40FF-855B-EA4D99C826D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67FFB1FE-535C-40FF-855B-EA4D99C826D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67FFB1FE-535C-40FF-855B-EA4D99C826D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67FFB1FE-535C-40FF-855B-EA4D99C826D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67FFB1FE-535C-40FF-855B-EA4D99C826D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCAD92EA-E4E9-4F8E-91D2-4A2B220E12E8}
+	EndGlobalSection
+EndGlobal
