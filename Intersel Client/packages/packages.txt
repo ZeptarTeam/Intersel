@@ -1,0 +1,14 @@
+- Lead
+- NETStandardLibrary
+- Newtonsoft.Json
+- System.Buffers
+- System.Collections
+- System.Core
+- System.Dynamic.Runtime
+- System.IO
+- System.Linq
+- System.Memory
+- System.Net.Security
+- System.Numerics.Vectors
+- System.Runtime.CompilerServices
+- System.Security
